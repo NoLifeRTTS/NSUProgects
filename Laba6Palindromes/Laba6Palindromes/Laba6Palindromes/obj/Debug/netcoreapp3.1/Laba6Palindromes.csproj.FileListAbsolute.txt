@@ -1,0 +1,11 @@
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.exe
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.deps.json
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.runtimeconfig.json
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.runtimeconfig.dev.json
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.dll
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\bin\Debug\netcoreapp3.1\Laba6Palindromes.pdb
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\obj\Debug\netcoreapp3.1\Laba6Palindromes.csprojAssemblyReference.cache
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\obj\Debug\netcoreapp3.1\Laba6Palindromes.AssemblyInfoInputs.cache
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\obj\Debug\netcoreapp3.1\Laba6Palindromes.AssemblyInfo.cs
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\obj\Debug\netcoreapp3.1\Laba6Palindromes.dll
+D:\3 курс 2 семестр\системное программирование\Laba6Palindromes\Laba6Palindromes\Laba6Palindromes\obj\Debug\netcoreapp3.1\Laba6Palindromes.pdb
